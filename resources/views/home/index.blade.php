@@ -10,7 +10,7 @@
     <!-- ===============================================-->
     <!--    Document Title-->
     <!-- ===============================================-->
-    <title>Executive | Landing, Corporate &amp; Business Templatee</title>
+    <title>SMK Darul Ma'arif</title>
 
 
     <!-- ===============================================-->
@@ -41,7 +41,7 @@
     <main class="main" id="top">
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" data-navbar-on-scroll="data-navbar-on-scroll">
             <div class="container"><a class="navbar-brand d-flex align-items-center fw-semi-bold fs-3" href="#">
-                    <img class="me-3" src="assets/img/gallery/logo.png" alt="" /></a>
+                    <img class="me-3" src="assets/img/gallery/smk.png" width="80px" alt="" /></a>
                 <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                     aria-expanded="false" aria-label="Toggle navigation"><span
@@ -49,18 +49,18 @@
                 <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
                     <ul class="navbar-nav mx-auto pt-2 pt-lg-0 font-base">
                         <li class="nav-item px-2" data-anchor="data-anchor"><a class="nav-link fw-medium active"
-                                aria-current="page" href="index.html">Home</a></li>
+                                aria-current="page" href="#">Home</a></li>
                         <li class="nav-item px-2" data-anchor="data-anchor"><a class="nav-link"
                                 href="#events">Events</a></li>
                         <li class="nav-item px-2" data-anchor="data-anchor"><a class="nav-link" href="#services">Our
                                 Services </a></li>
                         <li class="nav-item px-2" data-anchor="data-anchor"><a class="nav-link"
                                 href="#testimonial">Testimonial </a></li>
-                        <li class="nav-item px-2" data-anchor="data-anchor"><a class="nav-link" href="#country">Country
+                        <li class="nav-item px-2" data-anchor="data-anchor"><a class="nav-link" href="#country">Gallery
                             </a></li>
                     </ul>
                     <form class="ps-lg-5">
-                        <a href="formulir" class="btn btn-outline-primary order-0">Apply</a>
+                        <a href="formulir" class="btn btn-outline-primary order-0">PPDB Online</a>
                         <a href="login" class="btn btn-outline-secondary order-0">Login</a>
                     </form>
                 </div>
@@ -80,12 +80,12 @@
             <div class="container">
                 <div class="row align-items-center min-vh-md-75 mt-7">
                     <div class="col-md-7 col-lg-6 py-6 text-sm-start text-center">
-                        <h1 class="mt-6 mb-sm-4 display-4 fw-light lh-sm fs-4 fs-lg-6 fs-xxl-7">We Help to <span
-                                class="text-primary">Build</span><br class="d-block d-lg-none d-xl-block" />Your Dream
+                        <h1 class="mt-6 mb-sm-4 display-4 fw-light lh-sm fs-4 fs-lg-6 fs-xxl-7">Kami Bantu <span
+                                class="text-primary">Wujudkan</span><br class="d-block d-lg-none d-xl-block" />Impianmu
                         </h1>
-                        <p class="mb-5 fs-1 lh-lg">We are always availed to consult on taking your higher education to
-                            the next level so you can stay competitive in the global world.</p><a
-                            class="btn btn-lg btn-primary hover-top btn-glow" href="formulir">Apply Online
+                        <p class="mb-5 fs-1 lh-lg">Kami selalu tersedia untuk berkonsultasi untuk membawa pendidikan
+                            Anda ke tingkat selanjutnya sehingga Anda dapat tetap kompetitif di dunia global.</p>
+                        <a class="btn btn-lg btn-primary hover-top btn-glow" href="formulir">Apply Online
                             <svg class="bi bi-arrow-right-short ms-2" xmlns="http://www.w3.org/2000/svg" width="25"
                                 height="25" fill="currentColor" viewBox="0 0 16 16">
                                 <path fill-rule="evenodd"
@@ -346,10 +346,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 mx-auto text-center my-5">
-                        <h5 class="fw-light fs-3 fs-lg-5 lh-sm mb-4">News</h5>
-                        <p class="mb-3">Sunt autem nusquam hoc epicurus in gravissimo bello animadversionis metu
-                            degendae praesidia firmissima. Torquatos nostros? quos tu paulo ante cum teneam sententiam,
-                            quid bonum esse vult.</p>
+                        <h5 class="fw-light fs-3 fs-lg-5 lh-sm mb-4">Berita</h5>
+                        <p class="mb-3">Informasi - informasi terkini di lingkungan sekolah SMK Darul Ma'arif.</p>
                     </div>
                 </div>
                 <div class="row flex-center h-100">
@@ -436,9 +434,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 mx-auto text-center mb-4">
-                        <h5 class="fw-light fs-3 fs-lg-5 lh-sm mb-3">Upcoming University Events</h5>
-                        <p class="mb-3">Executive Trade International is an University Application Centre, guiding
-                            Bangladeshi students to Australian, British, Canadian and Irish universities!</p>
+                        <h5 class="fw-light fs-3 fs-lg-5 lh-sm mb-3">Acara Sekolah Mendatang</h5>
+                        <p class="mb-3">Informasi mengenai daftar kegiatan yang akan berlangsung di SMK Darul
+                            Ma'arif berikutnya</p>
                     </div>
                 </div>
                 <div class="row flex-center h-100">
@@ -454,17 +452,15 @@
                                                         <div class="d-flex align-items-center"><span
                                                                 class="badge bg-soft-primary text-primary fs--1 fw-light p-3 rounded-1"><span
                                                                     class="fw-medium fs-1 mb-2">23</span><br>Dec</span>
-                                                            <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">Macquarie
-                                                                University, Sydney, Australia</h6>
+                                                            <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">Webinar
+                                                                Kewirausahaan</h6>
                                                         </div>
                                                         <p class="mt-4 mb-md-0 mb-lg-3 fw-light lh-base text-start">
-                                                            Maiores voluptas laboriosam non dolorum perferendis fuga
-                                                            repellat aut. Blanditiis quos in minus. Voluptatum quia quia
-                                                            voluptas voluptatem vero ex possimus. </p>
+                                                            Pentingnya menjadi entrepreneur di usia dini. </p>
                                                         <div class="d-flex flex-between-center">
                                                             <div class="d-flex align-items-center"><a
                                                                     class="btn btn-lg ps-0 text-primary fw-light fs--1"
-                                                                    href="#" role="button">Learn more
+                                                                    href="#" role="button">Lihat lebih lanjut
                                                                     <svg class="bi bi-arrow-right-short"
                                                                         xmlns="http://www.w3.org/2000/svg"
                                                                         width="25" height="25"
@@ -499,18 +495,16 @@
                                                     <div class="card-body">
                                                         <div class="d-flex align-items-center"><span
                                                                 class="badge bg-soft-primary text-primary fs--1 fw-light p-3 rounded-1"><span
-                                                                    class="fw-medium fs-1 mb-2">17</span><br>Mar</span>
+                                                                    class="fw-medium fs-1 mb-2">17</span><br>Ags</span>
                                                             <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">
-                                                                University Admissions</h6>
+                                                                Ujian LSP</h6>
                                                         </div>
                                                         <p class="mt-4 mb-md-0 mb-lg-3 fw-light lh-base text-start">
-                                                            Maiores voluptas laboriosam non dolorum perferendis fuga
-                                                            repellat aut. Blanditiis quos in minus. Voluptatum quia quia
-                                                            voluptas voluptatem vero ex possimus. </p>
+                                                            Diselenggarakannya ujian lsp khusus kelas 12. </p>
                                                         <div class="d-flex flex-between-center">
                                                             <div class="d-flex align-items-center"><a
                                                                     class="btn btn-lg ps-0 text-primary fw-light fs--1"
-                                                                    href="#" role="button">Learn more
+                                                                    href="#" role="button">Lihat lebih lanjut
                                                                     <svg class="bi bi-arrow-right-short"
                                                                         xmlns="http://www.w3.org/2000/svg"
                                                                         width="25" height="25"
@@ -550,17 +544,16 @@
                                                         <div class="d-flex align-items-center"><span
                                                                 class="badge bg-soft-primary text-primary fs--1 fw-light p-3 rounded-1"><span
                                                                     class="fw-medium fs-1 mb-2">26</span><br>Mar</span>
-                                                            <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">Visa
-                                                                COnsultancy</h6>
+                                                            <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">Tryout
+                                                                Ujian Nasional</h6>
                                                         </div>
                                                         <p class="mt-4 mb-md-0 mb-lg-3 fw-light lh-base text-start">
-                                                            Maiores voluptas laboriosam non dolorum perferendis fuga
-                                                            repellat aut. Blanditiis quos in minus. Voluptatum quia quia
-                                                            voluptas voluptatem vero ex possimus. </p>
+                                                            Diselenggarakannya tryout ujian nasional untuk kelas 12.
+                                                        </p>
                                                         <div class="d-flex flex-between-center">
                                                             <div class="d-flex align-items-center"><a
                                                                     class="btn btn-lg ps-0 text-primary fw-light fs--1"
-                                                                    href="#" role="button">Learn more
+                                                                    href="#" role="button">Lihat lebih lanjut
                                                                     <svg class="bi bi-arrow-right-short"
                                                                         xmlns="http://www.w3.org/2000/svg"
                                                                         width="25" height="25"
@@ -597,16 +590,14 @@
                                                                 class="badge bg-soft-primary text-primary fs--1 fw-light p-3 rounded-1"><span
                                                                     class="fw-medium fs-1 mb-2">15</span><br>Apr</span>
                                                             <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">
-                                                                Accommodation</h6>
+                                                                Libur Sekolah</h6>
                                                         </div>
                                                         <p class="mt-4 mb-md-0 mb-lg-3 fw-light lh-base text-start">
-                                                            Maiores voluptas laboriosam non dolorum perferendis fuga
-                                                            repellat aut. Blanditiis quos in minus. Voluptatum quia quia
-                                                            voluptas voluptatem vero ex possimus. </p>
+                                                            Liburan akhir semester selama 2 minggu. </p>
                                                         <div class="d-flex flex-between-center">
                                                             <div class="d-flex align-items-center"><a
                                                                     class="btn btn-lg ps-0 text-primary fw-light fs--1"
-                                                                    href="#" role="button">Learn more
+                                                                    href="#" role="button">Lihat lebih lanjut
                                                                     <svg class="bi bi-arrow-right-short"
                                                                         xmlns="http://www.w3.org/2000/svg"
                                                                         width="25" height="25"
@@ -637,198 +628,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="carousel-item" data-bs-interval="3000">
-                                    <div class="row h-100 justify-content-center">
-                                        <div class="col-md-6 mb-4">
-                                            <div class="card h-100 shadow px-2 px-lg-3 card-span pt-4">
-                                                <div class="text-center text-md-start card-hover">
-                                                    <div class="card-body">
-                                                        <div class="d-flex align-items-center"><span
-                                                                class="badge bg-soft-primary text-primary fs--1 fw-light p-3 rounded-1"><span
-                                                                    class="fw-medium fs-1 mb-2">23</span><br>Dec</span>
-                                                            <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">
-                                                                Pre-Departure Briefing</h6>
-                                                        </div>
-                                                        <p class="mt-4 mb-md-0 mb-lg-3 fw-light lh-base text-start">
-                                                            Maiores voluptas laboriosam non dolorum perferendis fuga
-                                                            repellat aut. Blanditiis quos in minus. Voluptatum quia quia
-                                                            voluptas voluptatem vero ex possimus. </p>
-                                                        <div class="d-flex flex-between-center">
-                                                            <div class="d-flex align-items-center"><a
-                                                                    class="btn btn-lg ps-0 text-primary fw-light fs--1"
-                                                                    href="#" role="button">Learn more
-                                                                    <svg class="bi bi-arrow-right-short"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                        width="25" height="25"
-                                                                        fill="currentColor" viewBox="0 0 16 16">
-                                                                        <path fill-rule="evenodd"
-                                                                            d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z">
-                                                                        </path>
-                                                                    </svg></a></div>
-                                                            <div class="d-flex align-items-center">
-                                                                <svg class="bi bi-alarm me-2"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="16"
-                                                                    height="16" fill="currentColor"
-                                                                    viewBox="0 0 16 16">
-                                                                    <path
-                                                                        d="M8.5 5.5a.5.5 0 0 0-1 0v3.362l-1.429 2.38a.5.5 0 1 0 .858.515l1.5-2.5A.5.5 0 0 0 8.5 9V5.5z">
-                                                                    </path>
-                                                                    <path
-                                                                        d="M6.5 0a.5.5 0 0 0 0 1H7v1.07a7.001 7.001 0 0 0-3.273 12.474l-.602.602a.5.5 0 0 0 .707.708l.746-.746A6.97 6.97 0 0 0 8 16a6.97 6.97 0 0 0 3.422-.892l.746.746a.5.5 0 0 0 .707-.708l-.601-.602A7.001 7.001 0 0 0 9 2.07V1h.5a.5.5 0 0 0 0-1h-3zm1.038 3.018a6.093 6.093 0 0 1 .924 0 6 6 0 1 1-.924 0zM0 3.5c0 .753.333 1.429.86 1.887A8.035 8.035 0 0 1 4.387 1.86 2.5 2.5 0 0 0 0 3.5zM13.5 1c-.753 0-1.429.333-1.887.86a8.035 8.035 0 0 1 3.527 3.527A2.5 2.5 0 0 0 13.5 1z">
-                                                                    </path>
-                                                                </svg>
-                                                                <p class="mb-0 fw-light text-dark fs--1">10:00 AM -
-                                                                    3:00 PM</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 mb-4">
-                                            <div class="card h-100 shadow px-2 px-lg-3 card-span pt-4">
-                                                <div class="text-center text-md-start card-hover">
-                                                    <div class="card-body">
-                                                        <div class="d-flex align-items-center"><span
-                                                                class="badge bg-soft-primary text-primary fs--1 fw-light p-3 rounded-1"><span
-                                                                    class="fw-medium fs-1 mb-2">23</span><br>Dec</span>
-                                                            <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">Macquarie
-                                                                University, Sydney, Australia</h6>
-                                                        </div>
-                                                        <p class="mt-4 mb-md-0 mb-lg-3 fw-light lh-base text-start">
-                                                            Maiores voluptas laboriosam non dolorum perferendis fuga
-                                                            repellat aut. Blanditiis quos in minus. Voluptatum quia quia
-                                                            voluptas voluptatem vero ex possimus. </p>
-                                                        <div class="d-flex flex-between-center">
-                                                            <div class="d-flex align-items-center"><a
-                                                                    class="btn btn-lg ps-0 text-primary fw-light fs--1"
-                                                                    href="#" role="button">Learn more
-                                                                    <svg class="bi bi-arrow-right-short"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                        width="25" height="25"
-                                                                        fill="currentColor" viewBox="0 0 16 16">
-                                                                        <path fill-rule="evenodd"
-                                                                            d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z">
-                                                                        </path>
-                                                                    </svg></a></div>
-                                                            <div class="d-flex align-items-center">
-                                                                <svg class="bi bi-alarm me-2"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="16"
-                                                                    height="16" fill="currentColor"
-                                                                    viewBox="0 0 16 16">
-                                                                    <path
-                                                                        d="M8.5 5.5a.5.5 0 0 0-1 0v3.362l-1.429 2.38a.5.5 0 1 0 .858.515l1.5-2.5A.5.5 0 0 0 8.5 9V5.5z">
-                                                                    </path>
-                                                                    <path
-                                                                        d="M6.5 0a.5.5 0 0 0 0 1H7v1.07a7.001 7.001 0 0 0-3.273 12.474l-.602.602a.5.5 0 0 0 .707.708l.746-.746A6.97 6.97 0 0 0 8 16a6.97 6.97 0 0 0 3.422-.892l.746.746a.5.5 0 0 0 .707-.708l-.601-.602A7.001 7.001 0 0 0 9 2.07V1h.5a.5.5 0 0 0 0-1h-3zm1.038 3.018a6.093 6.093 0 0 1 .924 0 6 6 0 1 1-.924 0zM0 3.5c0 .753.333 1.429.86 1.887A8.035 8.035 0 0 1 4.387 1.86 2.5 2.5 0 0 0 0 3.5zM13.5 1c-.753 0-1.429.333-1.887.86a8.035 8.035 0 0 1 3.527 3.527A2.5 2.5 0 0 0 13.5 1z">
-                                                                    </path>
-                                                                </svg>
-                                                                <p class="mb-0 fw-light text-dark fs--1">10:00 AM -
-                                                                    2:00 PM</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <div class="row h-100 justify-content-center">
-                                        <div class="col-md-6 mb-4">
-                                            <div class="card h-100 shadow px-2 px-lg-3 card-span pt-4">
-                                                <div class="text-center text-md-start card-hover">
-                                                    <div class="card-body">
-                                                        <div class="d-flex align-items-center"><span
-                                                                class="badge bg-soft-primary text-primary fs--1 fw-light p-3 rounded-1"><span
-                                                                    class="fw-medium fs-1 mb-2">17</span><br>Mar</span>
-                                                            <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">
-                                                                University Admissions</h6>
-                                                        </div>
-                                                        <p class="mt-4 mb-md-0 mb-lg-3 fw-light lh-base text-start">
-                                                            Maiores voluptas laboriosam non dolorum perferendis fuga
-                                                            repellat aut. Blanditiis quos in minus. Voluptatum quia quia
-                                                            voluptas voluptatem vero ex possimus. </p>
-                                                        <div class="d-flex flex-between-center">
-                                                            <div class="d-flex align-items-center"><a
-                                                                    class="btn btn-lg ps-0 text-primary fw-light fs--1"
-                                                                    href="#" role="button">Learn more
-                                                                    <svg class="bi bi-arrow-right-short"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                        width="25" height="25"
-                                                                        fill="currentColor" viewBox="0 0 16 16">
-                                                                        <path fill-rule="evenodd"
-                                                                            d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z">
-                                                                        </path>
-                                                                    </svg></a></div>
-                                                            <div class="d-flex align-items-center">
-                                                                <svg class="bi bi-alarm me-2"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="16"
-                                                                    height="16" fill="currentColor"
-                                                                    viewBox="0 0 16 16">
-                                                                    <path
-                                                                        d="M8.5 5.5a.5.5 0 0 0-1 0v3.362l-1.429 2.38a.5.5 0 1 0 .858.515l1.5-2.5A.5.5 0 0 0 8.5 9V5.5z">
-                                                                    </path>
-                                                                    <path
-                                                                        d="M6.5 0a.5.5 0 0 0 0 1H7v1.07a7.001 7.001 0 0 0-3.273 12.474l-.602.602a.5.5 0 0 0 .707.708l.746-.746A6.97 6.97 0 0 0 8 16a6.97 6.97 0 0 0 3.422-.892l.746.746a.5.5 0 0 0 .707-.708l-.601-.602A7.001 7.001 0 0 0 9 2.07V1h.5a.5.5 0 0 0 0-1h-3zm1.038 3.018a6.093 6.093 0 0 1 .924 0 6 6 0 1 1-.924 0zM0 3.5c0 .753.333 1.429.86 1.887A8.035 8.035 0 0 1 4.387 1.86 2.5 2.5 0 0 0 0 3.5zM13.5 1c-.753 0-1.429.333-1.887.86a8.035 8.035 0 0 1 3.527 3.527A2.5 2.5 0 0 0 13.5 1z">
-                                                                    </path>
-                                                                </svg>
-                                                                <p class="mb-0 fw-light text-dark fs--1">10:00 AM -
-                                                                    2:00 PM</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 mb-4">
-                                            <div class="card h-100 shadow px-2 px-lg-3 card-span pt-4">
-                                                <div class="text-center text-md-start card-hover">
-                                                    <div class="card-body">
-                                                        <div class="d-flex align-items-center"><span
-                                                                class="badge bg-soft-primary text-primary fs--1 fw-light p-3 rounded-1"><span
-                                                                    class="fw-medium fs-1 mb-2">23</span><br>Dec</span>
-                                                            <h6 class="fw-light fs-1 fs-lg-2 text-start ms-3">Macquarie
-                                                                University, Sydney, Australia</h6>
-                                                        </div>
-                                                        <p class="mt-4 mb-md-0 mb-lg-3 fw-light lh-base text-start">
-                                                            Maiores voluptas laboriosam non dolorum perferendis fuga
-                                                            repellat aut. Blanditiis quos in minus. Voluptatum quia quia
-                                                            voluptas voluptatem vero ex possimus. </p>
-                                                        <div class="d-flex flex-between-center">
-                                                            <div class="d-flex align-items-center"><a
-                                                                    class="btn btn-lg ps-0 text-primary fw-light fs--1"
-                                                                    href="#" role="button">Learn more
-                                                                    <svg class="bi bi-arrow-right-short"
-                                                                        xmlns="http://www.w3.org/2000/svg"
-                                                                        width="25" height="25"
-                                                                        fill="currentColor" viewBox="0 0 16 16">
-                                                                        <path fill-rule="evenodd"
-                                                                            d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8z">
-                                                                        </path>
-                                                                    </svg></a></div>
-                                                            <div class="d-flex align-items-center">
-                                                                <svg class="bi bi-alarm me-2"
-                                                                    xmlns="http://www.w3.org/2000/svg" width="16"
-                                                                    height="16" fill="currentColor"
-                                                                    viewBox="0 0 16 16">
-                                                                    <path
-                                                                        d="M8.5 5.5a.5.5 0 0 0-1 0v3.362l-1.429 2.38a.5.5 0 1 0 .858.515l1.5-2.5A.5.5 0 0 0 8.5 9V5.5z">
-                                                                    </path>
-                                                                    <path
-                                                                        d="M6.5 0a.5.5 0 0 0 0 1H7v1.07a7.001 7.001 0 0 0-3.273 12.474l-.602.602a.5.5 0 0 0 .707.708l.746-.746A6.97 6.97 0 0 0 8 16a6.97 6.97 0 0 0 3.422-.892l.746.746a.5.5 0 0 0 .707-.708l-.601-.602A7.001 7.001 0 0 0 9 2.07V1h.5a.5.5 0 0 0 0-1h-3zm1.038 3.018a6.093 6.093 0 0 1 .924 0 6 6 0 1 1-.924 0zM0 3.5c0 .753.333 1.429.86 1.887A8.035 8.035 0 0 1 4.387 1.86 2.5 2.5 0 0 0 0 3.5zM13.5 1c-.753 0-1.429.333-1.887.86a8.035 8.035 0 0 1 3.527 3.527A2.5 2.5 0 0 0 13.5 1z">
-                                                                    </path>
-                                                                </svg>
-                                                                <p class="mb-0 fw-light text-dark fs--1">10:00 AM -
-                                                                    2:00 PM</p>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                             <div class="row mt-3 flex-center">
                                 <div class="col-auto position-relative z-index-2">
@@ -836,10 +635,6 @@
                                         <li class="active mx-2" data-bs-target="#carouselEvents"
                                             data-bs-slide-to="0"></li>
                                         <li class="mx-2" data-bs-target="#carouselEvents" data-bs-slide-to="1">
-                                        </li>
-                                        <li class="mx-2" data-bs-target="#carouselEvents" data-bs-slide-to="2">
-                                        </li>
-                                        <li class="mx-2" data-bs-target="#carouselEvents" data-bs-slide-to="3">
                                         </li>
                                     </ol>
                                 </div>
@@ -863,10 +658,8 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-7 mx-auto text-center my-5">
-                        <h5 class="fw-light fs-3 fs-lg-5 lh-sm mb-3">Countries We Covered</h5>
-                        <p class="mb-3">Sunt autem nusquam hoc epicurus in gravissimo bello animadversionis metu
-                            degendae praesidia firmissima. Torquatos nostros? quos tu paulo ante cum teneam sententiam,
-                            quid bonum esse vult.</p>
+                        <h5 class="fw-light fs-3 fs-lg-5 lh-sm mb-3">Gallery</h5>
+                        <p class="mb-3">Beberapa foto kegiatan di smk darul ma'arif.</p>
                     </div>
                 </div>
                 <div class="row flex-center h-100">
@@ -877,32 +670,18 @@
                                     <div class="row h-100 justify-content-center">
                                         <div class="col-md-4 mb-4">
                                             <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-1.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Australia</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
+                                                    src="assets/img/gallery/g1.jpeg" alt="news" />
                                             </div>
                                         </div>
                                         <div class="col-md-4 mb-4">
                                             <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-2.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Canada</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
+                                                    src="assets/img/gallery/g2.jpeg" alt="news"
+                                                    style="height: 100%;" />
                                             </div>
                                         </div>
                                         <div class="col-md-4 mb-4">
                                             <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-3.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Uk</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
+                                                    src="assets/img/gallery/g3.jpeg" alt="news" />
                                             </div>
                                         </div>
                                     </div>
@@ -911,32 +690,21 @@
                                     <div class="row h-100 justify-content-center">
                                         <div class="col-md-4 mb-4">
                                             <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-1.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Australia</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
+                                                    src="assets/img/gallery/g1.jpeg" alt="news" />
+
                                             </div>
                                         </div>
                                         <div class="col-md-4 mb-4">
                                             <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-2.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Canada</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
+                                                    src="assets/img/gallery/g2.jpeg" alt="news"
+                                                    style="height: 100%;" />
+
                                             </div>
                                         </div>
                                         <div class="col-md-4 mb-4">
                                             <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-3.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Uk</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
+                                                    src="assets/img/gallery/g3.jpeg" alt="news" />
+
                                             </div>
                                         </div>
                                     </div>
@@ -945,66 +713,21 @@
                                     <div class="row h-100 justify-content-center">
                                         <div class="col-md-4 mb-4">
                                             <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-1.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Australia</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
+                                                    src="assets/img/gallery/g1.jpeg" alt="news" />
+
                                             </div>
                                         </div>
                                         <div class="col-md-4 mb-4">
                                             <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-2.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Canada</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
+                                                    src="assets/img/gallery/g2.jpeg" alt="news"
+                                                    style="height: 100%" />
+
                                             </div>
                                         </div>
                                         <div class="col-md-4 mb-4">
                                             <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-3.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Uk</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="carousel-item">
-                                    <div class="row h-100 justify-content-center">
-                                        <div class="col-md-4 mb-4">
-                                            <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-1.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Australia</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4 mb-4">
-                                            <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-2.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Canada</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4 mb-4">
-                                            <div class="card h-100 shadow card-span bg-100"><img class="card-img-top"
-                                                    src="assets/img/gallery/country-3.png" alt="news" />
-                                                <div class="card-body">
-                                                    <h5 class="fs-lg-1 my-3 fw-light">Study in Uk</h5>
-                                                    <p class="mb-0 fw-light lh-base">Ut aut corporis accusantium illo
-                                                        ullam qui laudantium. Maxime rerum sunt et sequi sed qui</p>
-                                                </div>
+                                                    src="assets/img/gallery/g3.jpeg" alt="news" />
+
                                             </div>
                                         </div>
                                     </div>
@@ -1019,7 +742,6 @@
                                         </li>
                                         <li class="mx-2" data-bs-target="#carouselCountries" data-bs-slide-to="2">
                                         </li>
-                                        <li class="mx-2" data-bs-target="#carouselCountries" data-bs-slide-to="3">
                                         </li>
                                     </ol>
                                 </div>
@@ -1044,8 +766,8 @@
                 <div class="row">
                     <div class="col-lg-7 mx-auto text-center my-5">
                         <h5 class="fw-light fs-3 fs-lg-5 lh-sm mb-4">Testimonial</h5>
-                        <p class="mb-5">Torquem detraxit hosti et quidem faciunt, ut et negent satis esse appetendum,
-                            alterum. Si sine causa? quae fuerit causa, mox videro; interea hoc epicurus in liberos.</p>
+                        <p class="mb-5">Beberapa kesan dan pesan dari alumni SMK Darul Ma'arif selama menempuh
+                            pendidikan.</p>
                     </div>
                 </div>
                 <div class="row flex-center h-100">
@@ -1060,14 +782,12 @@
                                                     <div class="d-flex align-items-center"><img class="img-fluid"
                                                             src="assets/img/gallery/user-1.png" alt="testimonials" />
                                                         <div class="flex-1 ms-4">
-                                                            <h6 class="fw-light fs-lg-1 mb-1">Harrison Phillips</h6>
-                                                            <p class="fw-normal mb-0 text-800">reporter</p>
+                                                            <h6 class="fw-light fs-lg-1 mb-1">Nisa</h6>
+                                                            <p class="fw-normal mb-0 text-800">Mahasiswa</p>
                                                         </div>
                                                     </div>
-                                                    <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus
-                                                        molestiae eaque excepturi ab. Laboriosam ipsam voluptatem
-                                                        voluptatibus labore quam nihil. Quasi occaecati quos ratione
-                                                        quia aut molestiae velit et.</p>
+                                                    <p class="mb-0 mt-4 fw-light lh-lg">Fasilitas lengkap dan gurunya
+                                                        baik baik.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1077,52 +797,12 @@
                                                     <div class="d-flex align-items-center"><img class="img-fluid"
                                                             src="assets/img/gallery/user-2.png" alt="testimonials" />
                                                         <div class="flex-1 ms-4">
-                                                            <h6 class="fw-light fs-lg-1 mb-1">Ainara Vergara</h6>
-                                                            <p class="fw-normal mb-0 text-800">Landscape</p>
+                                                            <h6 class="fw-light fs-lg-1 mb-1">Arhan Pratama</h6>
+                                                            <p class="fw-normal mb-0 text-800">Bekerja</p>
                                                         </div>
                                                     </div>
-                                                    <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus
-                                                        molestiae eaque excepturi ab. Laboriosam ipsam voluptatem
-                                                        voluptatibus labore quam nihil. Quasi occaecati quos ratione
-                                                        quia aut molestiae velit et.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="carousel-item" data-bs-interval="5000">
-                                    <div class="row h-100 justify-content-center">
-                                        <div class="col-md-6 mb-4">
-                                            <div class="card h-100 shadow card-span p-3">
-                                                <div class="card-body">
-                                                    <div class="d-flex align-items-center"><img class="img-fluid"
-                                                            src="assets/img/gallery/user-3.png" alt="testimonials" />
-                                                        <div class="flex-1 ms-4">
-                                                            <h6 class="fw-light fs-lg-1 mb-1">Niek Bove</h6>
-                                                            <p class="fw-normal mb-0 text-800">Senior Developer</p>
-                                                        </div>
-                                                    </div>
-                                                    <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus
-                                                        molestiae eaque excepturi ab. Laboriosam ipsam voluptatem
-                                                        voluptatibus labore quam nihil. Quasi occaecati quos ratione
-                                                        quia aut molestiae velit et.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6 mb-4">
-                                            <div class="card h-100 shadow card-span p-3">
-                                                <div class="card-body">
-                                                    <div class="d-flex align-items-center"><img class="img-fluid"
-                                                            src="assets/img/gallery/user-1.png" alt="testimonials" />
-                                                        <div class="flex-1 ms-4">
-                                                            <h6 class="fw-light fs-lg-1 mb-1">Harrison Phillips</h6>
-                                                            <p class="fw-normal mb-0 text-800">reporter</p>
-                                                        </div>
-                                                    </div>
-                                                    <p class="mb-0 mt-4 fw-light lh-lg">Nisi cumque in necessitatibus
-                                                        molestiae eaque excepturi ab. Laboriosam ipsam voluptatem
-                                                        voluptatibus labore quam nihil. Quasi occaecati quos ratione
-                                                        quia aut molestiae velit et.</p>
+                                                    <p class="mb-0 mt-4 fw-light lh-lg">Alhamdulilah sudah dapat kerja.
+                                                        SMK emang mantep puol.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -1214,8 +894,7 @@
                                             data-bs-slide-to="1"></li>
                                         <li class="mx-2" data-bs-target="#carouselTestimonials"
                                             data-bs-slide-to="2"></li>
-                                        <li class="mx-2" data-bs-target="#carouselTestimonials"
-                                            data-bs-slide-to="3"></li>
+
                                     </ol>
                                 </div>
                             </div>
@@ -1238,10 +917,11 @@
             <div class="container">
                 <div class="row flex-center">
                     <div class="col-md-7 col-lg-6 offset-xl-1">
-                        <h1 class="fw-light text-center text-md-start fs-lg-3 fs-xl-4">Ready to chase your dreams?</h1>
+                        <h1 class="fw-light text-center text-md-start fs-lg-3 fs-xl-4">Yuk wujudkan impianmu disini!
+                        </h1>
                     </div>
                     <div class="col-md-4 text-center text-lg-end"> <a class="btn btn-lg btn-primary hover-top"
-                            href="#">Apply Online
+                            href="/formulir">Formulir PPDB Online
                             <svg class="bi bi-arrow-right-short ms-2" xmlns="http://www.w3.org/2000/svg"
                                 width="25" height="25" fill="currentColor" viewBox="0 0 16 16">
                                 <path fill-rule="evenodd"
@@ -1266,9 +946,8 @@
                 <div class="row justify-content-between pb-2 pt-8">
                     <div class="col-12 col-lg-auto mb-5 mb-lg-0"><a
                             class="d-flex align-items-center fw-semi-bold fs-3" href="#"> <img class="me-3"
-                                src="assets/img/gallery/footer-logo.png" alt="..." /></a>
-                        <p class="my-3 text-100 fw-light">Concord Royal Court (3rd floor)<br />Dhanmondi, Dhaka 1209,
-                            Bangladesh.</p>
+                                src="assets/img/gallery/smk.png" width="100px" alt="..." /></a>
+                        <p class="my-3 text-100 fw-light">Pamanukan, Subang Regency,<br> West Java 41254</p>
                     </div>
                     <div class="col-auto mb-3">
                         <ul class="list-unstyled mb-md-4 mb-lg-0">
@@ -1290,8 +969,8 @@
                                     href="#!">Disclaimer</a></li>
                             <li class="mb-3"><a class="text-100 fw-light text-decoration-none"
                                     href="#!">Privacy Policy</a></li>
-                            <li class="mb-3"><a class="text-100 fw-light text-decoration-none"
-                                    href="#!">Terms of Service</a></li>
+                            <li class="mb-3"><a class="text-100 fw-light text-decoration-none" href="#!">Terms
+                                    of Service</a></li>
                         </ul>
                     </div>
                     <div class="col-auto mb-4 d-flex align-items-end">
@@ -1320,19 +999,6 @@
                         </ul>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-auto mb-2">
-                        <p class="mb-0 fs--1 my-2 text-100">&copy; This template is made with&nbsp;
-                            <svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg" width="16"
-                                height="16" fill="#2b2b2b" viewBox="0 0 16 16">
-                                <path
-                                    d="M4 1c2.21 0 4 1.755 4 3.92C8 2.755 9.79 1 12 1s4 1.755 4 3.92c0 3.263-3.234 4.414-7.608 9.608a.513.513 0 0 1-.784 0C3.234 9.334 0 8.183 0 4.92 0 2.755 1.79 1 4 1z">
-                                </path>
-                            </svg>&nbsp;by&nbsp;<a class="text-100" href="https://themewagon.com/"
-                                target="_blank">ThemeWagon </a>
-                        </p>
-                    </div>
-                </div>
             </div><!-- end of .container-->
 
         </section>
@@ -1357,8 +1023,7 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
     <script src="assets/js/theme.js"></script>
 
-    <link
-        href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&amp;display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&amp;display=swap"
         rel="stylesheet">
 </body>
 
