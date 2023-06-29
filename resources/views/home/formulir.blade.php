@@ -55,10 +55,21 @@
                                                                     <option value="Administrasi Perkantoran"
                                                                         {{ old('jurusan') == 'Administrasi Perkantoran' ? 'selected' : '' }}>
                                                                         Administrasi Perkantoran</option>
-                                                                    <option value="Akuntansi Keuangan"
-                                                                        {{ old('jurusan') == 'Akuntansi Keuangan' ? 'selected' : '' }}>
-                                                                        Akuntansi Keuangan</option>
-
+                                                                    <option value="Akuntansi"
+                                                                        {{ old('jurusan') == 'Akuntansi' ? 'selected' : '' }}>
+                                                                        Akuntansi</option>
+                                                                    <option value="Penjualan"
+                                                                        {{ old('jurusan') == 'Penjualan' ? 'selected' : '' }}>
+                                                                        Penjualan</option>
+                                                                    <option value="Rekayasa Perangkat Lunak"
+                                                                        {{ old('jurusan') == 'Rekayasa Perangkat Lunak' ? 'selected' : '' }}>
+                                                                        Rekayasa Perangkat Lunak</option>
+                                                                    <option value="Teknik Elektronika Industri"
+                                                                        {{ old('jurusan') == 'Teknik Elektronika Industri' ? 'selected' : '' }}>
+                                                                        Teknik Elektronika Industri</option>
+                                                                    <option value="Teknik Mekanik Otomotif"
+                                                                        {{ old('jurusan') == 'Teknik Mekanik Otomotif' ? 'selected' : '' }}>
+                                                                        Teknik Mekanik Otomotif</option>
                                                                 </select>
                                                             </div>
                                                         </div>
@@ -159,6 +170,12 @@
                                                                     <option value="Katolik"
                                                                         {{ old('agama') == 'Katolik' ? 'selected' : '' }}>
                                                                         Katolik</option>
+                                                                    <option value="Hindu"
+                                                                        {{ old('agama') == 'Hindu' ? 'selected' : '' }}>
+                                                                        Hindu</option>
+                                                                    <option value="Buddha"
+                                                                        {{ old('agama') == 'Buddha' ? 'selected' : '' }}>
+                                                                        Buddha</option>
                                                                 </select>
                                                             </div>
                                                         </div>

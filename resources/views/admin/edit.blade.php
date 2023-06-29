@@ -81,9 +81,21 @@
                                                                     <option value="Administrasi Perkantoran"
                                                                         {{ $data->jurusan == 'Administrasi Perkantoran' ? 'selected' : '' }}>
                                                                         Administrasi Perkantoran</option>
-                                                                    <option value="Akuntansi Keuangan"
-                                                                        {{ $data->jurusan == 'Akuntansi Keuangan' ? 'selected' : '' }}>
-                                                                        Akuntansi Keuangan</option>
+                                                                    <option value="Akuntansi"
+                                                                        {{ $data->jurusan == 'Akuntansi' ? 'selected' : '' }}>
+                                                                        Akuntansi</option>
+                                                                    <option value="Penjualan"
+                                                                        {{ $data->jurusan == 'Penjualan' ? 'selected' : '' }}>
+                                                                        Penjualan</option>
+                                                                    <option value="Rekayasa Perangkat Lunak"
+                                                                        {{ $data->jurusan == 'Rekayasa Perangkat Lunak' ? 'selected' : '' }}>
+                                                                        Rekayasa Perangkat Lunak</option>
+                                                                    <option value="Teknik Elektronika Industri"
+                                                                        {{ $data->jurusan == 'Teknik Elektronika Industri' ? 'selected' : '' }}>
+                                                                        Teknik Elektronika Industri</option>
+                                                                    <option value="Teknik Mekanik Otomotif"
+                                                                        {{ $data->jurusan == 'Teknik Mekanik Otomotif' ? 'selected' : '' }}>
+                                                                        Teknik Mekanik Otomotif</option>
 
                                                                 </select>
                                                             </div>
@@ -188,6 +200,12 @@
                                                                     <option value="Katolik"
                                                                         {{ $data->agama == 'Katolik' ? 'selected' : '' }}>
                                                                         Katolik</option>
+                                                                    <option value="Hindu"
+                                                                        {{ $data->agama == 'Hindu' ? 'selected' : '' }}>
+                                                                        Hindu</option>
+                                                                    <option value="Buddha"
+                                                                        {{ $data->agama == 'Buddha' ? 'selected' : '' }}>
+                                                                        Buddha</option>
                                                                 </select>
                                                             </div>
                                                         </div>

@@ -943,7 +943,7 @@
         <section class="py-0 bg-primary">
 
             <div class="container">
-                <div class="row justify-content-between pb-2 pt-8">
+                <div class="row justify-content-between pb-2 pt-5">
                     <div class="col-12 col-lg-auto mb-5 mb-lg-0"><a
                             class="d-flex align-items-center fw-semi-bold fs-3" href="#"> <img class="me-3"
                                 src="assets/img/gallery/smk.png" width="100px" alt="..." /></a>

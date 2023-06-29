@@ -164,6 +164,9 @@
     </style>
     <script>
         window.print();
+        setTimeout(() => {
+            history.go(-2);
+        }, 200);
     </script>
 </head>
 
