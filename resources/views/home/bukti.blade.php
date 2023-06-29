@@ -164,6 +164,9 @@
     </style>
     <script>
         window.print();
+        setTimeout(() => {
+            history.go(-2);
+        }, 200);
     </script>
 </head>
 
@@ -212,7 +215,6 @@
             <td>{{ $data['almt_peserta'] }}</td>
         </tr>
     </table>
-
 </body>
 
 </html>
