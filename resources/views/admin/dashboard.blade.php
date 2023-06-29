@@ -16,7 +16,7 @@
                         <div class="col-12 col-md-6 order-md-1 order-last">
                             <h3>Data Calon Peserta Didik Baru</h3>
                             <p class="text-subtitle text-muted">
-                                Di halaman ini memuat semua data hewan yang ditampilkan di aplikasi mobile.
+                                Di halaman ini memuat semua data calon peserta didik baru.
                             </p>
                             @if (session('pesan'))
                                 <div class="alert alert-success alert-dismissible fade show" role="alert">
@@ -33,7 +33,7 @@
                                         <a href="#">Dashboard</a>
                                     </li>
                                     <li class="breadcrumb-item active" aria-current="page">
-                                        Data
+                                        Data Peserta
                                     </li>
                                 </ol>
                             </nav>

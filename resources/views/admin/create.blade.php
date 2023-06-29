@@ -9,14 +9,13 @@
                     <i class="bi bi-justify fs-3"></i>
                 </a>
             </header>
-
             <div class="page-heading">
                 <div class="page-title">
                     <div class="row">
                         <div class="col-12 col-md-6 order-md-1 order-last">
-                            <h3>Tambah Data Peserta</h3>
+                            <h3>Tambah Data Calon Peserta</h3>
                             <p class="text-subtitle text-muted">
-                                Halaman untuk menambahkan data peserta baru.
+                                Halaman untuk menambahkan data calon peserta didik baru.
                             </p>
                         </div>
                         <div class="col-12 col-md-6 order-md-2 order-first">
@@ -26,7 +25,7 @@
                                         <a href="index.html">Dashboard</a>
                                     </li>
                                     <li class="breadcrumb-item active" aria-current="page">
-                                        Tambah
+                                        Tambah Peserta
                                     </li>
                                 </ol>
                             </nav>

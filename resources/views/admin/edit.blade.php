@@ -16,9 +16,9 @@
                 <div class="page-title">
                     <div class="row">
                         <div class="col-12 col-md-6 order-md-1 order-last">
-                            <h3>Edit Data Hewan</h3>
+                            <h3>Edit Data Calon Peserta Didik Baru</h3>
                             <p class="text-subtitle text-muted">
-                                Halaman untuk mengubah data hewan langka.
+                                Halaman untuk mengubah data dari calon peserta didik baru.
                             </p>
                         </div>
                         <div class="col-12 col-md-6 order-md-2 order-first">
@@ -28,7 +28,7 @@
                                         <a href="index.html">Dashboard</a>
                                     </li>
                                     <li class="breadcrumb-item active" aria-current="page">
-                                        Edit Hewan
+                                        Edit Peserta
                                     </li>
                                 </ol>
                             </nav>

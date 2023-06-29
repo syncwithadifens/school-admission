@@ -16,7 +16,7 @@
                 <div class="page-title">
                     <div class="row">
                         <div class="col-12 col-md-6 order-md-1 order-last">
-                            <h3>Semua user</h3>
+                            <h3>Semua User Terdaftar</h3>
                             <p class="text-subtitle text-muted">
                                 Halaman untuk mengelola data user.
                             </p>
@@ -35,7 +35,7 @@
                                         <a href="#">Dashboard</a>
                                     </li>
                                     <li class="breadcrumb-item active" aria-current="page">
-                                        User
+                                        Data User
                                     </li>
                                 </ol>
                             </nav>
