@@ -7,7 +7,9 @@
                 <div class="page-title">
                     <div class="row">
                         <div class="col-12 order-md-1 order-last">
-                            <h3>Formulir Pendaftaran Siswa Baru SMK Darul Ma'arif </h3>
+                            <h1 class="text-center">Formulir Pendaftaran Siswa Baru <br> SMK Darul Ma'arif </h1>
+                            <p class="text-center">Silahkan mengisi data diri anda untuk melanjutkan pendaftaran di SMK Darul
+                                Ma'arif</p>
                         </div>
                     </div>
                 </div>
@@ -180,11 +182,11 @@
                                                         </div>
                                                     </div>
                                                     <div class="col-12 d-flex justify-content-end">
+                                                        <a href="/" class="btn btn-danger me-1 mb-1"><i
+                                                                class="bi bi-x-circle"> Batal</i> </a>
                                                         <button type="submit" class="btn btn-primary me-1 mb-1">
-                                                            Daftar
+                                                            <i class="bi bi-check-circle"> Daftar</i>
                                                         </button>
-                                                        <input type="reset"
-                                                            class="btn btn-light-secondary me-1 mb-1"></input>
                                                     </div>
                                                 </div>
                                             </div>

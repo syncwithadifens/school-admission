@@ -85,7 +85,7 @@
                         </h1>
                         <p class="mb-5 fs-1 lh-lg">We are always availed to consult on taking your higher education to
                             the next level so you can stay competitive in the global world.</p><a
-                            class="btn btn-lg btn-primary hover-top btn-glow" href="#">Apply Online
+                            class="btn btn-lg btn-primary hover-top btn-glow" href="formulir">Apply Online
                             <svg class="bi bi-arrow-right-short ms-2" xmlns="http://www.w3.org/2000/svg" width="25"
                                 height="25" fill="currentColor" viewBox="0 0 16 16">
                                 <path fill-rule="evenodd"
